@@ -1,4 +1,5 @@
 import 'dotenv/config'
+import { env } from './src/env'
 import { app } from './config/app'
 
 app
