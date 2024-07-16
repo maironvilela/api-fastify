@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# Configu VSCode
+.vscode
+
+# Environment
+.env
+.env.test
+
+# Tasks
+tasks.md
+
+# Build
+build
+
+# Databases
+database/*.db
